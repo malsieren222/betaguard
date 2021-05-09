@@ -1,4 +1,4 @@
-# betaguard
+# Betaguard - Mmotion event detecion & real time notification / BASH BETA concept
 Beta di un allarme attivato con Motion.
 Ti notifica movimento via call e email, allegando in copia tutti i media catturati(jpeg,avi).
 
