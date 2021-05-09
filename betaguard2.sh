@@ -1,5 +1,7 @@
+###Se lo script dovesse dare problemi, cancellare le note a seguito del codice######
+
 #!/bin/bash
-YOURMAINPATH=""      ##modifica questo
+YOURMAINPATH=""      ##modifica questo###############
 PATHLOG="/YOURMAINPATH/guardlog.log"
 PATHMOTIONLOG="/var/log/motion/motion.log"
 PATHEVENTSLOG="/YOURMAINPATH/eventslog.log"
@@ -13,7 +15,7 @@ sudo motion &
 motionPID=$!
 NmotionSTARTS="$(cat $LASTRECORDEDN)"
 PhoneN="<NUMERO DI TELEFONO>"       ##il numero di telefono da chiamare quando viene rilevato movimento
-ADBIP="192.168.1.100:5555"          ##indirizzo IP della telefono che ti chiama, assicurati di avere adb attivo (usb/network)
+ADBIP="192.168.1.100:5555"          ##indirizzo IP locale della telefono che ti chiama, assicurati di avere adb attivo (usb/network)
 while true
 do
 sleep 5
