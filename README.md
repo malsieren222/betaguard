@@ -48,4 +48,4 @@ Motion has a very easy config file to set up in "/etc/motion/motion.conf", by de
 
 
 
-Yes, i write scripts with my ass.
+Oh, right thanks. Yes, i write scripts with my ass.
