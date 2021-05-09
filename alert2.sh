@@ -6,7 +6,7 @@ Destinatario="<mail su cui ricevere notifica>"
 Oggetto=""
 CorpoMessaggio=""
 PATHFOLDER="lo stesso path usato su betaguard chiamato YOURMAINPATH"
-username="se hai marcobarca@gmail.com é marcobarca"
+username="se hai pincopallino@gmail.com é "pincopallino""
 password=""
 #modifica -s se non usi gmail per inviare email dallo script
 nohup sudo mpv $PATHFOLDER/alert.mp3 --no-video &
