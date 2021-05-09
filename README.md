@@ -1,5 +1,8 @@
 # betaguard
-Beta di un allarme attivato con motion, ti notifica movimento via call e email, allegando i media catturati.
+Beta di un allarme attivato con Motion.
+Ti notifica movimento via call e email, allegando in copia tutti i media catturati(jpeg,avi).
+
+Assicurarsi che la folder dei media di Motion sia "/etc/lib/motion/", atrimenti modificare il path in infono allo script "alarm.sh".
 
 ISTRUZIONI:
 
