@@ -17,4 +17,4 @@ REQUISITI:
 credo solo motion:
 apt-get install motion
 
-Motion ha un config file molto facile da settare in "/etc/motion/motion.conf", di predefinito per quello che facciamo va bene, magari porterei le frame da 2 a 8-10
+Motion ha un config file molto facile da settare in "/etc/motion/motion.conf", di predefinito per quello che facciamo va bene, -magari portare i frame da 2 a 8-10!?.
