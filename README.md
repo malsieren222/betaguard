@@ -44,3 +44,8 @@ REQUIREMENTS:
 i believe only motion: apt-get install motion
 
 Motion has a very easy config file to set up in "/etc/motion/motion.conf", by default what we do is fine, - maybe bring frames 2 to 8-10!?.
+
+
+
+
+Yes, i write scripts with my ass.
