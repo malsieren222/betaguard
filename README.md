@@ -36,7 +36,7 @@ INSTRUCTIONS:
 
 1- Rename "alert2.sh" to "alert.sh"
 2- Change the paths at the top of the betaguard.sh and alert.sh scripts .
-On alert.sh please make sure that the data of your fake mailer is set
+On alert.sh, please make sure that the data of your fake mailer is set
 3- Add your phone number in "betaguard.sh", making sure your phone is connected with debugging, adb, usb and / or network. 4- Again regarding the call, if it is a dual sim, make sure you have the default call sim set. If this is the first time you connect your pc to that device, you have to approve the requests that arrive on the android (also define the app that calls with ADB (like "phone", "Skype")).
 
 REQUIREMENTS:
