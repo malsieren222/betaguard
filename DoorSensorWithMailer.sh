@@ -36,7 +36,7 @@ if [ $file = true ]; then
 		while true
 		do
 		sudo streamer -t 10 -r 2 -o ~/frames/foobar00.jpeg
-		sudo sendemail -f mailersystemmalsi@gmail.com -t metaxploiter666@gmail.com -u intrusion -m "bro we got a visit, sending frames" -a "~/frames/"* -s smtp.googlemail.com:587 -xu mailersystemmalsi -xp Etacarinae1006* -0 tls:yes
+		sudo sendemail -f <mailersystem> -t <email> -u intrusion -m "bro we got a visit, sending frames" -a "~/frames/"* -s <GMAIL smtp.googlemail.com:587> -xu <mailersystem> -xp <password> -0 tls:yes
 		echo "10 frames sent via email! bro you are fucked!"
 		wait
 		sudo rm ~/frames/*
